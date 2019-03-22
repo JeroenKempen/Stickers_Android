@@ -4,7 +4,7 @@
   "sticker_packs": [
     {
       "identifier": "1",
-      "name": "Rickstickert Plakboek",
+      "name": "Rickertstickert Plakboek",
       "publisher": "Jron de Camper",
       "tray_image_file": "Logo.png",
       "publisher_email":"",
@@ -13,13 +13,52 @@
       "license_agreement_website": "",
       "stickers": [
         {
-          "image_file": "Ricksticker_1.webp"
+          "image_file": "Rickertsticker_1.webp"
         },
         {
-          "image_file": "Ricksticker_2.webp"
+          "image_file": "Rickertsticker_2.webp"
         },
         {
-          "image_file": "Ricksticker_3.webp"
+          "image_file": "Rickertsticker_3.webp"
+        },
+        {
+          "image_file": "Rickertsticker_4.webp"
+        },
+        {
+          "image_file": "Rickertsticker_5.webp"
+        },
+        {
+          "image_file": "Rickertsticker_6.webp"
+        },
+        {
+          "image_file": "Rickertsticker_7.webp"
+        },
+        {
+          "image_file": "Rickertsticker_8.webp"
+        },
+        {
+          "image_file": "Rickertsticker_9.webp"
+        },
+        {
+          "image_file": "Rickertsticker_10.webp"
+        },
+        {
+          "image_file": "Rickertsticker_11.webp"
+        },
+        {
+          "image_file": "Rickertsticker_12.webp"
+        },
+        {
+          "image_file": "Rickertsticker_13.webp"
+        },
+        {
+          "image_file": "Rickertsticker_14.webp"
+        },
+        {
+          "image_file": "Rickertsticker_15.webp"
+        },
+        {
+          "image_file": "Rickertsticker_16.webp"
         }
       ]
     }
