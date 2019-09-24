@@ -103,6 +103,45 @@
           "image_file": "Rickertsticker_31.webp"
         }
       ]
+    },
+    {
+      "identifier": "2",
+      "name": "Rickertstickert Memerij",
+      "publisher": "Jron de Camper",
+      "tray_image_file": "Logo.png",
+      "publisher_email":"",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "dumber.webp"
+        },
+        {
+          "image_file": "eminem.webp"
+        },
+        {
+          "image_file": "fuckboi.webp"
+        },
+        {
+          "image_file": "goofy.webp"
+        },
+        {
+          "image_file": "hmmm.webp"
+        },
+        {
+          "image_file": "thomas.webp"
+        },
+        {
+          "image_file": "trash.webp"
+        },
+        {
+          "image_file": "brainTime.webp"
+        },
+        {
+          "image_file": "lilShit.webp"
+        }
+      ]
     }
   ]
 }
